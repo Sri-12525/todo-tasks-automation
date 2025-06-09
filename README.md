@@ -23,5 +23,5 @@ Validate task count/status
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/web-table-sort-verifier.git
-   cd web-table-sort-verifier
+   git clone https://github.com/Sri-12525/todo-tasks-automation/tree/main
+   cd todo-automation
