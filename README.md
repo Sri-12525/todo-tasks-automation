@@ -1,9 +1,5 @@
 # 🔍 Automated TODO app – Selenium Automation Project
 
-This project automates the process of verifying sorting functionality on a web table using Selenium with Python and Pytest.
-
----
-
 ## 🚀 Features
 Automate a **To-Do App** with these functionalities:
 
